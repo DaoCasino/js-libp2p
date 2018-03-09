@@ -43,6 +43,6 @@ module.exports = (node) => {
       return setImmediate(() => callback(new Error('peer type not recognized')))
     }
 
-    setImmediate(() => callback(null, p))
+    callback(null, p)
   }
 }
