@@ -40,7 +40,7 @@
     "async": "^2.6.0",
     "libp2p-floodsub": "^0.14.1",
     "libp2p-ping": "~0.6.1",
-    "libp2p-switch": "github:DaoCasino/js-libp2p-switch#dc-path",
+    "libp2p-switch": "github:DaoCasino/js-libp2p-switch#dc-patch-1",
     "mafmt": "^4.0.0",
     "multiaddr": "^3.0.2",
     "peer-book": "~0.5.4",
